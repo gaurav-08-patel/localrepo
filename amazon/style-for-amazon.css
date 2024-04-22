@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box:border-box;
+    
+}
+#navbar{
+    
+    height: 55px;
+    background-color: black;
+
+    
+
+}
+#logo{
+    color:#f08804;
+    font-size: 20px;
+}
+a{
+    color: white;
+    margin-right: 260px;
+    text-decoration: none;
+   
+    
+}
+button{
+    background-color: #f08804;
+}
+p{
+    
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: beige;
+}
+.spinner
+{
+   
+    border: 15px solid rgb(128, 126, 126);
+    height: 100px;
+    width: 100px;
+    border-top-color:red;
+    border-radius: 50%;
+    animation: spin 1s infinite ;
+    margin-left: 50%;
+  
+   
+
+
+
+
+}
+@keyframes spin {
+    0%{
+        transform: rotate(0deg);
+    }
+   
+    100%{
+        transform: rotate(360deg);
+    }
+    
+}

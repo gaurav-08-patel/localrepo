@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "palindrome.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
